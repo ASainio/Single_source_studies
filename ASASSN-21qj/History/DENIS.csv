@@ -1,0 +1,2 @@
+denisid,ra,dec,ipsf,e_ipsf,jpsf,e_jpsf,kpsf,e_kpsf,iqual,jqual,kqual,obsjd,iflg,jflg,kflg,mult,dist,angle,i_j,i_k,j_k
+J081523.3-385923,123.847086,-38.989828,12.789,0.02,12.243,0.06,12.053,0.10,100,100,100,2451254.537315,0000,0000,0000,0,1.242702,268.671895,0.5460,0.1900,0.7360

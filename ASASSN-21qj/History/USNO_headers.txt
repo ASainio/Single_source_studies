@@ -1,0 +1,16 @@
+ID (computed quantity) - identification number. This number is a zone based record number. The zone based numbers are in the form ZZZZ-NNNNNNNN, where ZZZZ = the four digit USNO-A2 catalogue zone number (the number is the south polar distance in integer tenths of a degree, so 1501 is the with its southern edge at a dec of +60.1 degrees), and NNNNNNNN is the eight digit record number within the zone (the system is 1 based).
+RA - the Right Ascension of the object in hours or degrees. The epoch and equinox are those given in the file header. The default is equinox and epoch J2000.0.
+DEC - the Declination of the object in degrees. The epoch and equinox are those given in the file header. The default is equinox and epoch J2000.0.
+ErrFlg - The error column is used to flag objects for which there was some problem in the measurement and/or processing. For PMM measures, 0 means everything was OK, 1 means there was trouble. IF the values are from ACT, then the ERR col. will be 0, if the values are from TYCHO, the ERR col. will be 1 (this is just to distinguish the source of the added in value).
+Flags - The flags column indicates whether the object has a correlated ACT or TYCHO star.
+0x0 (previously '-') == no
+0x4 (previously '*') == yes, and the values listed are the PMM measurements for USNO-A
+0x1 (previously 'A') == yes, and the values listed are from the ACT catalogue (which has been added into the A2.0 catalogue).
+0x2 (previously 'T') == yes, and the values listed are from the TYCHO catalogue (which has been added into the A2.0 catalogue).
+B - POSS-I blue magnitude. This is the magnitude derived from the POSS-I 103aO or SRC-J or SERC-EJ plate. The valid magnitudes should span ~0 to ~22 magnitude. The formal valid range is 0.00 to 99.99. If the star is has been added from ACT or Tycho, then this value has been computed from the Tycho2 BT and VT magnitudes, using relations derived by A. Henden. This is a PHOTOGRAPHIC B magnitude.
+R - POSS-I red magnitude. This is the magnitude derived from the POSS-I 103aE or ESO-R or SERC-ER plate. This is a PHOTOGRAPHIC R magnitude. See B Magnitudes.
+Xi (computed quantity) - the standard coordinate Xi, in the tangent plane projection about the requested region center. This is only computed for rectangular or circular regions. The units are decimal arcseconds.
+Eta (computed quantity) - the standard coordinate Eta, in the tangent plane projection about the requested region center. This is only computed for rectangular or circular regions. The units are decimal arcseconds.
+DistCtr (computed quantity) - distance from this object to the extraction center in arcseconds.
+Gal_L (computed quantity) - computed galactic longitude, in decimal degrees.
+Gal_B (computed quantity) - computed galactic latitude, in decimal degrees.
