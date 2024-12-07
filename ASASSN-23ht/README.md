@@ -1,5 +1,7 @@
 ASASSN-23ht
 
+Status: Deep eclipse has ended. No information on past eclipses. No calculations of the eclipse itself.
+
 https://www.astronomerstelegram.org/?read=16328
 
 
