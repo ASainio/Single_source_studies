@@ -1,0 +1,30 @@
+Title: "Brightening of EF Eridani Observed by ASAS-SN and WISE/NEOWISE missions"
+
+EF Eridani (RA=03:14:13.25, DEC= -22:35:42.90) is a cataclysmic binary consisting of a white dwarf and a low-mass companion. It was identified as an AM Herculis-type magnetic cataclysmic variable during its bright state in 1979 (Griffiths et al. 1979). In 1997, the system was found in a low state that lasted for 10 years until a new brightening was reported by Koji Mukai in 2008 (Wheatley & Ramsay 1998, ATEL #1562).
+
+NASA's WISE mission was launched in September 2009 and continued as the NEOWISE mission from 2013 (Wright et al. 2010, Mainzer et al. 2014). The WISE missions collected 360 detections of EF Eri in both W1 (3.4 μm) and W2 (4.6 μm) wavelengths, for a total of 720 detections. We present the W1 and W2 L1b mean epoch photometry including the last observations from the NEOWISE mission.
+
+The first 21 epochs, from UT 2010-01-22.03 to UT 2022-08-01.40, did not present high-amplitude variability in either band. The full WISE data set can be accessed via NASA/IPAC Infrared Science Archive.
+
+Mean WISE epoch photometry:
+
+Epoch	UT Time	Mean W1 (Mag)	Mean W2 (Mag)
+Epoch 1-21	2010-01-22.03 - 2022-08-01.40	14.244 ± 0.065	13.615 ± 0.118
+Epoch 22	2023-01-07.14 - 2023-01-08.11	12.532 ± 0.027	12.066 ± 0.039
+Epoch 23	2023-07-30.26 - 2023-08-08.82	12.617 ± 0.029	12.245 ± 0.048
+Epoch 24	2024-01-06.19 - 2024-01-07.42	12.648 ± 0.028	12.200 ± 0.045
+Epoch 25	2024-07-31.34 - 2024-08-01.79	12.651 ± 0.033	12.357 ± 0.064
+The All-Sky Automated Survey for SuperNovae (ASAS-SN, Shappee et al. 2014, Kochanek et al. 2017, Hart et al. 2023) has observed EF Eri since 2012, collecting 5,477 data points so far in V and g bands. They observed the star in the V band from UT 2012-02-01.34 to UT 2018-11-29.39, resulting in a mean V band magnitude of 16.827 ± 0.177. Observations in the g band began on UT 2017-09-18.38.
+
+On UT 2022-12-02.14, EF Eri exhibited a slightly brighter optical detection (g = 16.857 ± 0.198) compared to its previous mean (g =17.179 ± 0.161), and within six days, by UT 2022-12-08.23, the system had brightened significantly to g = 14.671 ± 0.057.
+Current peak in g band was achieved between UT 2023-02-27.13 and 2023-03-03.01 when 9 consecutive measurements averaged ~14.218 ±0.035 magnitudes. Current ASAS-SN light curve does not exhibit other such variability on either band since 2012 when EF Eri was first observed.
+
+ASAS-SN data suggest that, even though the brightening has been steadily fading, the latest measurements on UT 2024-12-01.14 still present a mean g = 15.429 ± 0.038, which is >1.7 magnitudes above the mean before its current state.
+Summary:
+
+Currently, EF Eri is undergoing a brightening event observed in both mid-infrared and optical wavelengths that began in December 2022. EF Eri peaked in the g band by ~2.9 magnitudes, WISE W1 brightened by ~1.7 magnitudes, and W2 increased by ~1.5 magnitudes above the previous mean in January 2023. The last epochs from the NEOWISE mission, as well as the latest ASAS-SN observations, continue to show significant brightening in all observed wavelengths. The optical peak seems to be lowering more rapidly than the MIR brightening, but the current state of all bands remains substantially elevated.
+
+Follow-up:
+
+Franz-Josef Hambsch has started UT 2024-05-12 EF Eri to observing program and will be submitting photometry to AAVSO photometric archive.
+This note makes use of data products from the Wide-field Infrared Survey Explorer, which is a joint project of the University of California, Los Angeles, and the Jet Propulsion Laboratory/California Institute of Technology, funded by the National Aeronautics and Space Administration. This work also benefits of the work from All-Sky Automated Survey for Supernovae (ASAS-SN).
