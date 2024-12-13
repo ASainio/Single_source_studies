@@ -2,6 +2,8 @@ Gaia Source_ID 2956094666917364736
 79.2595611	-26.7181539
 WD PWD 0.5
 
+https://www.aavso.org/vsx/index.php?view=detail.top&oid=686767
+
 Highly variable in IR. Possibly periodic?
 This is falsely auto classified as RR-lyrea (polluted?) 
 Gaia color-color puts it to WD range. 
