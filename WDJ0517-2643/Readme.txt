@@ -4,8 +4,10 @@ WD PWD 0.5
 
 Highly variable in IR. Possibly periodic?
 This is falsely auto classified as RR-lyrea (polluted?) 
-Gaia HR puts it to WD range. 
+Gaia color-color puts it to WD range. 
 Has IR excess and is X-ray source. Accretion? 
+I get tentative period of 0.0131(d) from W2 using Lomb-Scargle periodogram. 
+
 CV candidate. I can't do much with this one. Is Koji Mukai interested?
 
 No obvious contamination in DES.
