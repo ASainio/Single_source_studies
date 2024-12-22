@@ -5,3 +5,4 @@ Gaia DR3 1837948790953103232
 
 Has peak in W1 and W2 on second last NEOWISE epoch. 
 
+There is nothing on ZTF optical light curve, but the W1 in epoch ligh curve looks almost like part of an eclipsing disk.
